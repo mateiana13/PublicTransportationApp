@@ -1,0 +1,302 @@
+{
+	"Stations":
+	{
+		"M3":
+		[
+			{
+				"-name":"Preciziei",
+				"-lat":"44.430628",
+				"-long":"25.992570"
+			},
+			{
+				"-name":"Pacii",
+				"-lat":"44.434017",
+				"-long":"26.004292"
+			},
+			{
+				"-name":"Gorjului",
+				"-lat":"44.434316",
+				"-long":"26.021678"
+			},
+			{
+				"-name":"Lujerului",
+				"-lat":"44.434520",
+				"-long":"26.033699"
+			},
+			{
+				"-name":"Politehnica",
+				"-lat":"44.434777",
+				"-long":"26.054970"
+			},
+			{
+				"-name":"Eroilor",
+				"-lat":"44.434926",
+				"-long":"26.075692"
+			},
+			{
+				"-name":"Izvor",
+				"-lat":"44.432921",
+				"-long":"26.089591"
+			},
+			{
+				"-name":"Piata Unirii",
+				"-lat":"44.427631",
+				"-long":"26.102551"
+			},
+			{
+				"-name":"Timpuri Noi",
+				"-lat":"44.416652",
+				"-long":"26.113377"
+			},
+			{
+				"-name":"Mihai Bravu",
+				"-lat":"44.411325",
+				"-long":"26.126114"
+			},
+			{
+				"-name":"Dristor",
+				"-lat":"44.419548",
+				"-long":"26.139894"
+			},
+			{
+				"-name":"Nicolae Grigorescu",
+				"-lat":"44.413430",
+				"-long":"26.160092"
+			},
+			{
+				"-name":"1 Decembrie 1918",
+				"-lat":"44.410582",
+				"-long":"26.174464"
+			},
+			{
+				"-name":"Nicolae Teclu",
+				"-lat":"44.407424",
+				"-long":"26.194808"
+			},
+			{
+				"-name":"Anghel Saligny",
+				"-lat":"44.404981",
+				"-long":"26.208223"
+			}
+		],
+		"M2":
+		[							
+			{
+				"-name":"Berceni",
+				"-lat":"44.361210",
+				"-long":"26.149186"
+			},
+			{
+				"-name":"Dimitie Leonida",
+				"-lat":"44.368937",
+				"-long":"26.143648"
+			},
+			{
+				"-name":"Aparatorii Patriei",
+				"-lat":"44.379552",
+				"-long":"26.135356"
+			},
+			{
+				"-name":"Piata Sudului",
+				"-lat":"44.392939",
+				"-long":"26.122297"
+			},
+			{
+				"-name":"Constantin Brancoveanu",
+				"-lat":"44.398722",
+				"-long":"26.109085"
+			},
+			{
+				"-name":"Eroii Revolutiei",
+				"-lat":"44.403940",
+				"-long":"26.096511"
+			},
+			{
+				"-name":"Tineretului",
+				"-lat":"44.414757",
+				"-long":"26.104675"
+			},
+			{
+				"-name":"Piata Unirii",
+				"-lat":"44.427631",
+				"-long":"26.102551"
+			},
+			{
+				"-name":"Universitate",
+				"-lat":"44.435524",
+				"-long":"26.102507"
+			},
+			{
+				"-name":"Piata Romana",
+				"-lat":"44.445784",
+				"-long":"26.097590"
+			},
+			{
+				"-name":"Piata Victoriei",
+				"-lat":"44.452262",
+				"-long":"26.086355"
+			},
+			{
+				"-name":"Aviatorilor",
+				"-lat":"44.466157",
+				"-long":"26.086468"
+			},
+			{
+				"-name":"Aurel Vlaicu",
+				"-lat":"44.479255",
+				"-long":"26.100462"
+			},
+			{
+				"-name":"Pipera",
+				"-lat":"44.480561",
+				"-long":"26.116557"
+			}
+		],
+		"M1":
+		[
+			{
+				"-name":"Dristor",
+				"-lat":"44.419548",
+				"-long":"26.139894"
+			},
+			{
+				"-name":"Piata Muncii",
+				"-lat":"44.432355",
+				"-long":"26.138482"
+			},
+			{
+				"-name":"Piata Iancului",
+				"-lat":"44.440946",
+				"-long":"26.133080"
+			},
+			{
+				"-name":"Obor",
+				"-lat":"44.449915",
+				"-long":"26.124030"
+			},
+			{
+				"-name":"Stefan Cel Mare",
+				"-lat":"44.452991",
+				"-long":"26.104881"
+			},
+			{
+				"-name":"Piata Victoriei",
+				"-lat":"44.452262",
+				"-long":"26.086355"
+			},
+			{
+				"-name":"Gara De Nord",
+				"-lat":"44.447576",
+				"-long":"26.073795"
+			},
+			{
+				"-name":"Basarab",
+				"-lat":"44.450328",
+				"-long":"26.068924"
+			},
+			{
+				"-name":"Crangasi",
+				"-lat":"44.451813",
+				"-long":"26.047697"
+			},
+			{
+				"-name":"Petrache Poenaru",
+				"-lat":"44.445308",
+				"-long":"26.046694"
+			},
+			{
+				"-name":"Grozavesti",
+				"-lat":"44.442820",
+				"-long":"26.059874"
+			},
+			{
+				"-name":"Eroilor",
+				"-lat":"44.434926",
+				"-long":"26.075692"
+			},
+			{
+				"-name":"Izvor",
+				"-lat":"44.432921",
+				"-long":"26.089591"
+			},
+			{
+				"-name":"Piata Unirii",
+				"-lat":"44.427631",
+				"-long":"26.102551"
+			},
+			{
+				"-name":"Timpuri Noi",
+				"-lat":"44.416652",
+				"-long":"26.113377"
+			},
+			{
+				"-name":"Mihai Bravu",
+				"-lat":"44.411325",
+				"-long":"26.126114"
+			},
+			{
+				"-name":"Dristor",
+				"-lat":"44.419548",
+				"-long":"26.139894"
+			},
+			{
+				"-name":"Nicolae Grigorescu",
+				"-lat":"44.413430",
+				"-long":"26.160092"
+			},
+			{
+				"-name":"Titan",
+				"-lat":"44.425034",
+				"-long":"26.162679"
+			},
+			{
+				"-name":"Costin Georgian",
+				"-lat":"44.435568",
+				"-long":"26.169432"
+			},
+			{
+				"-name":"Republica",
+				"-lat":"44.434397",
+				"-long":"26.185730"
+			},
+			{
+				"-name":"Pantelimon",
+				"-lat":"44.440626",
+				"-long":"26.192492"
+			}
+		],
+		"M4":
+		[
+			{
+				"-name":"Gara De Nord",
+				"-lat":"44.447576",
+				"-long":"26.073795"
+			},
+			{
+				"-name":"Basarab",
+				"-lat":"44.450328",
+				"-long":"26.068924"
+			},
+			{
+				"-name":"Grivita",
+				"-lat":"44.461859",
+				"-long":"26.057331"
+			},
+			{
+				"-name":"1 Mai",
+				"-lat":"44.470409",
+				"-long":"26.050607"
+			},
+			{
+				"-name":"Jiului",
+				"-lat":"44.480541",
+				"-long":"26.042336"
+			},
+			{
+				"-name":"Parc Bazilescu",
+				"-lat":"44.487215",
+				"-long":"26.037186"
+			}
+		]
+	}
+}
